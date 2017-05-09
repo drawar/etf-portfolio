@@ -1,0 +1,10 @@
+name: ETF_Portfolio
+title:
+account: lhvan
+server: shinyapps.io
+appId: 153271
+bundleId: 819194
+url: https://lhvan.shinyapps.io/ETF_Portfolio/
+when: 1494252361.5524
+asMultiple: FALSE
+asStatic: FALSE
